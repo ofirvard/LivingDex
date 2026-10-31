@@ -1,0 +1,458 @@
+[[File:Pyroar gender difference anime.png|thumb|300px|{{p|Pyroar}}'s gender difference in {{aniseries|XY}}; male (left) and female (right)]]
+[[File:Pikachu gender difference anime.png|thumb|300px|{{p|Pikachu}}'s gender difference in ''[[Pokémon Journeys: The Series]]''; female (left) and male (right)]]
+Although most {{OBP|Pokémon|species}} look identical regardless of [[gender]], some species have '''differences in appearance due to gender''', with noticeable differences between the males and females. Gender differences were introduced in [[Generation IV]].
+
+These differences are a reference to {{wp|sexual dimorphism}}, which is commonly seen in many real organisms and may offer some clues to their biology and behavior.
+
+Generation IV, in addition to introducing new Pokémon with gender differences, also modified several older Pokémon to have gender differences. In most cases, the male version retained the original design while the female was altered. However, the inverse is true for {{p|Dodrio}}, {{p|Meganium}}, {{p|Xatu}}, {{p|Aipom}}, {{p|Torchic}}, {{p|Beautifly}}, {{p|Ludicolo}}, {{p|Meditite}}, {{p|Medicham}}, and {{p|Milotic}}. These Pokémon, as well as {{p|Bidoof}}, {{p|Bibarel}}, {{p|Combee}}, {{p|Ambipom}}, {{p|Gible}}, {{p|Gabite}}, and {{p|Garchomp}}, use their female designs for their official artwork, while other Pokémon with gender differences introduced in the first four [[generation]]s use the male designs. (This cannot be determined for {{p|Buizel}} and {{p|Floatzel}}, as their backs are not shown in their official artwork, though Buizel debuted featuring its male design in the [[M09|ninth movie]].)
+
+Later generations would introduce far fewer Pokémon with gender differences, but those that were introduced differ much more drastically in appearance and have separate official artwork and menu sprites for each gender. Starting in [[Generation VI]], some Pokémon even have different {{Abilities}}, [[base stats]], and/or [[move]]s they can learn depending on their gender. These gender differences are usually considered to be entirely separate [[form]]s.
+
+Starting in Generation IV, certain Pokémon's [[Evolution]] is also [[Gender-based Evolution|affected by their gender]]. {{p|Burmy}} evolves into {{p|Wormadam}} if it is female or {{p|Mothim}} if it is male. Only female {{p|Combee}} and {{p|Salandit}} can evolve into {{p|Vespiquen}} and {{p|Salazzle}}, respectively, with the males unable to evolve at all. Only male {{p|Kirlia}} can evolve into {{p|Gallade}}, though either gender can evolve into {{p|Gardevoir}}; similarly, only female {{p|Snorunt}} can evolve into {{p|Froslass}}, though either gender can evolve into {{p|Glalie}}. However, Combee is the only one of these Pokémon to have a visual gender difference.
+
+As of [[Generation IX]], there are a total of 102 Pokémon with gender differences.
+
+==List of Pokémon==
+===Generation I===
+There are 23 [[Generation I]] Pokémon with gender differences, 22 debuting in [[Generation IV]] and 1 debuting in [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!]]
+{| class="roundy" style="width:50%; margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0003|Venusaur|Female's flower has a visible {{wp|gynoecium}}}}
+{{gendif|0012|Butterfree|Female has black (purple in [[Generation V]]) spots on her lower wings}}
+{{gendif|0019|Rattata|Female has smaller whiskers}}
+{{gendif|0020|Raticate|Female has smaller whiskers}}
+{{gendif|0025|Pikachu|Female's tail ends in the upper half of a heart}}
+{{gendif|0026|Raichu|Female's tail lacks a point and is smaller}}
+{{gendif|0041|Zubat|Female has smaller fangs}}
+{{gendif|0042|Golbat|Female has smaller fangs}}
+{{gendif|0044|Gloom|Female has one large spot per petal}}
+{{gendif|0045|Vileplume|Female's petals have larger spots}}
+{{gendif|0064|Kadabra|Female has a smaller mustache}}
+{{gendif|0065|Alakazam|Female has a smaller mustache}}
+{{gendif|0084|Doduo|Male has black necks while female has beige necks}}
+{{gendif|0085|Dodrio|Male has black necks while female has beige necks}}
+{{gendif|0097|Hypno|Female has longer collar fur}}
+{{gendif|0111|Rhyhorn|Female's horn is shorter}}
+{{gendif|0112|Rhydon|Female's horn is shorter}}
+{{gendif|0118|Goldeen|Female's horn is smaller}}
+{{gendif|0119|Seaking|Female's horn is smaller}}
+{{gendif|0123|Scyther|Female's abdomen is larger}}
+{{gendif|0129|Magikarp|Male has yellow barbels while female has white barbels}}
+{{gendif|0130|Gyarados|Male has blue barbels while female has white barbels}}
+{{gendif|0133|Eevee|Female's tail's white tip has larger, rounder scallops. This gender difference was introduced in [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!]], where it was exclusive to the {{OBP|partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner}} Eevee. Starting in [[Generation VIII]], this gender difference was applied to all Eevee.}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation II===
+There are 22 [[Generation II]] Pokémon with gender differences, all of which were introduced in [[Generation IV]]. Additionally, {{p|Sneasel}}'s [[Hisuian form]], introduced in [[Pokémon Legends: Arceus]], has a gender difference.
+{| class="roundy" style="margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0154|Meganium|Male has longer antennae}}
+{{gendif|0165|Ledyba|Female has smaller antennae}}
+{{gendif|0166|Ledian|Female has smaller antennae}}
+{{gendif|0178|Xatu|Male has three body stripes}}
+{{gendif|0185|Sudowoodo|Female's head "branch" is smaller}}
+{{gendif|0186|Politoed|Female has smaller cheeks}}
+{{gendif|0190|Aipom|Male has shorter head fur}}
+{{gendif|0194|Wooper|Female has one set of gill branches}}
+{{gendif|0195|Quagsire|Female has a smaller dorsal ridge|5=_b}}
+{{gendif|0198|Murkrow|Female's hat-like plumage is smaller}}
+{{gendif|0202|Wobbuffet|Female's mouth has lipstick-like markings}}
+{{gendif|0203|Girafarig|Female's body has a larger yellow section}}
+{{gendif|0207|Gligar|Female has a smaller stinger}}
+{{gendif|0208|Steelix|Female lacks an outer tooth on each side}}
+{{gendif|0212|Scizor|Female's abdomen is larger}}
+{{gendif|0214|Heracross|Female's horn is heart-shaped}}
+{{gendif|0215|Sneasel|Female's left ear is shorter}}
+{{gendif|0215H|Sneasel|Female's left ear is shorter|HOME||Hisuian|-Hisui}}
+{{gendif|0217|Ursaring|Female has longer shoulder fur}}
+{{gendif|0221|Piloswine|Female has smaller tusks}}
+{{gendif|0224|Octillery|Female has smaller suction cups}}
+{{gendif|0229|Houndoom|Female has smaller horns}}
+{{gendif|0232|Donphan|Female has shorter tusks}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation III===
+There are 18 [[Generation III]] Pokémon with gender differences, all of which were introduced in [[Generation IV]].
+{| class="roundy" style="margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0255|Torchic|Male has a black speck on his rear|5=_b}}
+{{gendif|0256|Combusken|Female has smaller head feathers}}
+{{gendif|0257|Blaziken|Female's head crest is smaller}}
+{{gendif|0267|Beautifly|Male has longer red markings on his upper wings}}
+{{gendif|0269|Dustox|Male has longer antennae}}
+{{gendif|0272|Ludicolo|Male has thicker stripes}}
+{{gendif|0274|Nuzleaf|Male has a bigger leaf}}
+{{gendif|0275|Shiftry|Female has smaller leaves}}
+{{gendif|0307|Meditite|Male's ears are higher}}
+{{gendif|0308|Medicham|Male has a larger bulb on his head}}
+{{gendif|0315|Roselia|Female's body leaf is longer}}
+{{gendif|0316|Gulpin|Female's feather is shorter}}
+{{gendif|0317|Swalot|Female has shorter whiskers}}
+{{gendif|0322|Numel|Female has larger hump}}
+{{gendif|0323|Camerupt|Female has larger humps}}
+{{gendif|0332|Cacturne|Female has a large diamond on her chest where male has two small ones}}
+{{gendif|0350|Milotic|Male's hair-like fins are shorter}}
+{{gendif|0369|Relicanth|Male has a longer jaw guard}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation IV===
+There are 31 [[Generation IV]] Pokémon with gender differences.
+{| class="roundy" style="margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0396|Starly|Female's forehead marking is smaller}}
+{{gendif|0397|Staravia|Female's forehead spot is smaller}}
+{{gendif|0398|Staraptor|Female's forehead spot is smaller}}
+{{gendif|0399|Bidoof|Male's tail has two additional curls|5=_b}}
+{{gendif|0400|Bibarel|Male's mask has two additional curls}}
+{{gendif|0401|Kricketot|Female has a larger collar}}
+{{gendif|0402|Kricketune|Female has a smaller mustache}}
+{{gendif|0403|Shinx|Female has blue hind feet and a shorter mane}}
+{{gendif|0404|Luxio|Female has exposed rear ankles and a shorter mane}}
+{{gendif|0405|Luxray|Female's mane is smaller}}
+{{gendif|0407|Roserade|Female has longer cape}}
+{{gendif|0415|Combee|Male's lower face has no red mark<br />Only female Combee can [[Evolution|evolve]] into {{p|Vespiquen}}}}
+{{gendif|0417|Pachirisu|Female's head stripe is shorter}}
+{{gendif|0418|Buizel|Female has one less light-colored spot on her back|5=_b}}
+{{gendif|0419|Floatzel|Female has one less light-colored bump on her back|5=_b}}
+{{gendif|0424|Ambipom|Male has shorter head fur}}
+{{gendif|0443|Gible|Male has a notched dorsal fin}}
+{{gendif|0444|Gabite|Male has a notched dorsal fin}}
+{{gendif|0445|Garchomp|Male has a notched dorsal fin}}
+{{gendif|0449|Hippopotas|Female's color pattern is inverted}}
+{{gendif|0450|Hippowdon|Male's body is light brown and female's is bluish-gray}}
+{{gendif|0453|Croagunk|Female has higher "bandages"}}
+{{gendif|0454|Toxicroak|Female's {{wp|vocal sac}} is smaller}}
+{{gendif|0456|Finneon|Female has larger bottom tail fins}}
+{{gendif|0457|Lumineon|Female has longer fins}}
+{{gendif|0459|Snover|Female's midsection is white}}
+{{gendif|0460|Abomasnow|Female has longer chest fur}}
+{{gendif|0461|Weavile|Female's ears are shorter}}
+{{gendif|0464|Rhyperior|Female has smaller upper horn}}
+{{gendif|0465|Tangrowth|Female's finger markings are longer}}
+{{gendif|0473|Mamoswine|Female has smaller tusks}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation V===
+There are three [[Generation V]] Pokémon with gender differences. From this generation onward, the Pokémon's designs are very different and more obvious.
+{| class="roundy" style="width: 75%; margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0521|Unfezant|Male has a reddish-pink {{wp|Wattle (anatomy)|wattle}} with long extensions while the female has a curved feather on the back of her head. Male has a green underside and female has a brown underside.|7=-Male|artdif=yes}}
+{{gendif|0592|Frillish|Male is blue, frowns, and has a ruffled collar, smooth, diamond-patterned tentacles, and one upper eyelash per eye. Female is pink, smiles, and has a bulbous collar, frilled tentacles, and one lower eyelash per eye. Males have a star-shaped head pattern and a stiff crown while females have a flower-shaped pattern and a limp crown.|7=-Male|artdif=yes}}
+{{gendif|0593|Jellicent|Body color, eyes, head pattern, and tentacle differences are much the same as with Frillish, but the female's eyes are now larger and have two eyelashes each. Males have a facial covering resembling a large mustache while females have one resembling a fluffy collar. Female has a heart-shaped mouth and the male's is hidden inside the "mustache."|7=-Male|artdif=yes}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation VI===
+There are two [[Generation VI]] Pokémon with gender differences.
+{| class="roundy" style="width: 75%; margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0668|Pyroar|Male has a large mane shaped like the {{wp|kanji}} character 大 ''ō'' (big or great) or 火 ''hi'' (fire), a stockier body, and half-brown front legs. Female has long, flowing hair similar to a ponytail and mostly-brown legs.|7=-Male|artdif=yes}}
+{{gendif|0678|Meowstic|Males are mostly blue with white highlights, the inverse of females. Male's eyes are green with light blue sclerae, while female's are red and yellow.
+
+The moves Meowstic can learn vary by gender, with males learning more status moves and females learning more damaging moves. Male Meowstic have the Hidden Ability {{a|Prankster}}, while female Meowstic have the Hidden Ability {{a|Competitive}}.
+
+In [[Pokémon Sword and Shield]], all {{pkmn2|wild}} Meowstic are male in Sword and female in Shield. However, [[Evolution|evolving]] {{p|Espurr}} allows both genders to be obtained in either version.|7=-Male|artdif=yes}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation VIII===
+There are two [[Generation VIII]] Pokémon with gender differences.
+{| class="roundy" style="width: 75%; margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0876|Indeedee|Males have lowered eyes, a triangular mouth pointing upwards like a frown, and more black on their torso, made to resemble a {{wp|suit}}. Females have wider eyes, a triangular mouth pointing downwards like a smile, and more white on their torso, made to resemble an {{wp|apron}}.
+
+Male Indeedee have higher {{stat|Attack}}, {{stat|Special Attack}}, and {{stat|Speed}}, while female Indeedee have higher {{stat|Defense}}, {{stat|Special Defense}}, and {{stat|HP}}. The two genders also have different moves and Abilities.
+
+In [[Pokémon Sword and Shield]], all {{pkmn2|wild}} Indeedee are male in Sword and female in Shield. However, {{pkmn|breeding}} and [[Dynamax Adventure]]s allow both genders to be obtained in either version.|7=-Male|artdif=yes}}
+{{gendif|0902|Basculegion|Males have red accents, fierce-looking eyes, longer barbels, and two additional growths on their chin resembling a stubble. Females have pale-blue accents, sad-looking eyes, shorter barbels, and additional accents around their lips and eyes.
+
+Male Basculegion have higher {{stat|Attack}}, while female Basculegion have higher {{stat|Special Attack}}.|7=-Male|artdif=yes}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+===Generation IX===
+There is one [[Generation IX]] Pokémon with a gender difference.
+{| class="roundy" style="width: 75%; margin:auto; text-align:center; background:#{{pokemon color dark}}; border:5px solid #{{pokemon color}}"
+|- 
+! style="background:#{{pokemon color light}}; {{roundytl|5px}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! style="background:#{{pokemon color light}}" | Name
+! colspan="2" style="background:#{{pokemon color light}}" | Gender
+|-
+! colspan="2" style="background:#{{pokemon color light}}" | Difference
+! style="background:#0070f8" | Male
+! style="background:#e82010; {{roundytr|5px}}" | Female
+{{gendif|0916|Oinkologne|Females have more brown bodies while males have a darker gray complexion. Male Oinkologne have a larger left ear which often covers their left eye, and have a more magenta shade of pink for their hooves and snout. Male Oinkologne are also slightly plumper than the females, and have a differently shaped tail bobble.
+
+Male Oinkologne may have the Ability {{a|Lingering Aroma}}, while female Oinkologne may have the Ability {{a|Aroma Veil}}. The two forms learn the same moves by leveling up, yet the female form learns them at earlier levels and also learns {{m|Yawn}} before {{m|Take Down}}. The two forms also have different stats, with males having higher Attack and Defense and females having higher HP and Sp. Def. They also have different [[Cry|cries]].|7=-Male|artdif=yes}}
+|-
+| colspan="6" style="background:#{{pokemon color light}}; {{roundybottom|5px}}" |
+|}
+
+==In the Pokédex==
+Gender differences can be viewed in the Pokédex as [[form]]s. In {{game2|Diamond|Pearl|Platinum}}, in the [[gate]] to [[Canalave City]], [[Professor Rowan]]'s [[Professor's assistant|assistant]] upgrades the {{player}}'s [[Pokédex]] to be able to display form differences, including gender differences. In other games, they can be viewed from the start. As with other form differences, the player can register a gender difference in their Pokédex by obtaining it, or by seeing it in {{pkmn|battle}} having obtained any form of the Pokémon.
+
+From [[Generation IV]] to [[Generation VI]], the Pokédex has a "forms" section in which both the male and female of the Pokémon are shown (for Pokémon that can be either gender), even if there is no gender difference, with "Male" and "Female" displayed as the form names. Starting in [[Generation VII]], only Pokémon with gender differences have them shown as separate forms in the Pokédex; the gender currently shown is indicated by a male or female gender symbol being shown in the entry, with Pokémon that do not have gender differences (and can be either gender) having both symbols displayed. Most gender differences are not given form names, with the exception of Pokémon that have functional differences between genders ({{p|Meowstic}}, {{p|Indeedee}}, {{p|Basculegion}}, and {{p|Oinkologne}}), which use "Male" and "Female" as form names. This is also the case for the Pokédex in [[Pokémon Bank]] and the [[Nintendo Switch]] version of [[Pokémon HOME]]. However, [[Pokémon Legends: Z-A]]'s Pokédex does not feature this distinction, with all Pokémon that have gender differences using the "Male" and "Female" form names.
+
+In the mobile version of Pokémon HOME, most gender differences cannot be scrolled through like other forms; instead, all Pokémon that are not [[gender unknown]] have male and/or female symbols on their entries showing which genders they can have, and the player can tap these symbols to view any gender differences the Pokémon has. The exceptions are again Meowstic, Indeedee, Basculegion, and Oinkologne, whose gender differences are treated as entirely separate forms that can be scrolled through like other forms. In addition to these Pokémon, the app's Pokémon Guidebook feature also treats the gender differences of {{p|Unfezant}}, {{p|Frillish}}, {{p|Jellicent}}, and {{p|Pyroar}} as entirely separate forms, though their forms are not given names (whereas Meowstic, Indeedee, Basculegion, and Oinkologne use the "Male" and "Female" form names). Certain other official sources (such as websites and guidebooks) consider all of these Pokémon's gender differences as separate forms and use the "Male" and "Female" form names for them.
+
+In the Pokémon HOME Pokédex, when viewing the entries for {{p|Quagsire}}, {{p|Torchic}}, {{p|Bidoof}}, {{p|Buizel}}, and {{p|Floatzel}}, the player can "rotate" the Pokémon by pressing the right stick (in the Nintendo Switch version) or tapping a rotation icon (in the mobile version), which changes the Pokémon's render to one with its back turned so that its gender difference can be seen more easily (in Bidoof's case) or at all (in the other cases).
+
+Most Pokémon use the same [[Pokédex entry]] for both genders. Starting in [[Pokémon Sword and Shield]], certain Pokémon have different entries for each gender, namely Meowstic, Indeedee, and Oinkologne. Basculegion uses the same entry for both genders in [[Pokémon Legends: Arceus]], but has different entries for each gender in [[Pokémon Scarlet and Violet]]. Additionally, in the data for Pokémon Sword and Shield, female Unfezant has an unused Pokédex entry for Pokémon Sword, female Frillish has an unused entry for Pokémon Shield, and female Jellicent has unused entries for both versions, but in the final game, these Pokémon use the same Pokédex entries for both genders.
+
+==In animation==
+===Pokémon animated series===
+{| class="roundtable" style="margin:auto; text-align:center; background-color: #{{Pokemon color}}; border: 3px solid #{{Pokemon color dark}}" cellpadding=5px width=1000px
+|-
+! style="background-color:#{{Pokemon color light}}" | Female
+! style="background-color:#{{Pokemon color light}}" | Female in anime
+! style="background-color:#{{Pokemon color light}}" | Default gender
+! style="background-color:#{{Pokemon color light}}" | Male in anime
+! style="background-color:#{{Pokemon color light}}" | Male
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation I
+|-
+| style="background-color:lightpink" | [[File:HOME003 f.png|x150px]]
+| style="background-color:lightpink" | [[File:May Venusaur.png|x150px]]<br>[[DP078]]
+| style="background-color:lightblue" | [[File:003Venusaur.png|x150px]]<br>{{color2|000|Venusaur}}
+| style="background-color:lightblue" | [[File:Laqua Ivysaur Venusaur.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME003.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME012 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Pink Butterfree M20.png|x150px]]<br>[[M20]]/[[SM034]]
+| style="background-color:lightblue" | [[File:012Butterfree.png|x150px]]<br>{{color2|000|Butterfree}}
+| style="background-color:lightblue" | [[File:Ash Butterfree M20.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME012.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME025 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Ayumi Pikachu.png|x150px]]<br>[[BW098]]/[[BWS01]]
+| style="background-color:lightblue" | [[File:025Pikachu.png|x150px]]<br>{{color2|000|Pikachu}}
+| style="background-color:lightblue" | [[File:Ash Pikachu.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME025.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME026 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Goh Raichu.png|x150px]]<br>[[JN035]]
+| style="background-color:lightblue" | [[File:026Raichu.png|x150px]]<br>{{color2|000|Raichu}}
+| style="background-color:lightblue" | [[File:Visquez Raichu.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME026.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME129 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Magikarp and Gyarados PT21.png|x150px]]<br>[[PT21]]
+| style="background-color:lightblue" | [[File:129Magikarp.png|x150px]]<br>{{color2|000|Magikarp}}
+| style="background-color:lightblue" | [[File:Goh giant Magikarp.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME129.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME130 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Magikarp and Gyarados PT21.png|x150px]]<br>[[PT21]]
+| style="background-color:lightblue" | [[File:130Gyarados.png|x150px]]<br>{{color2|000|Gyarados}}
+| style="background-color:lightblue" | [[File:Rocket Prize Master Gyarados.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME130.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME133 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Chloe Eevee.png|x150px]]<br>[[JN049]]
+| style="background-color:lightblue" | [[File:133Eevee.png|x150px]]<br>{{color2|000|Eevee}}
+| style="background-color:lightblue" | [[File:Ilima Eevee.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME133.png|x150px]]
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation II
+|-
+| style="background-color:lightpink" | [[File:HOME154 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Elisa Meganium.png|x150px]]
+| style="background-color:lightpink" | [[File:154Meganium.png|x150px]]<br>{{color2|000|Meganium}}
+| style="background-color:lightblue" | [[File:JN020 Meganium.png|x150px]]<br>[[JN020]]
+| style="background-color:lightblue" | [[File:HOME154.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME202 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Dr White Wobbuffet Wynaut.png|x150px]]<br>[[XY063]]
+| style="background-color:lightblue" | [[File:202Wobbuffet.png|x150px]]<br>{{color2|000|Wobbuffet}}
+| style="background-color:lightblue" | [[File:Jessie Wobbuffet.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME202.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME214 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Heracross gender difference anime.png|x150px]]<br>[[SM121]]
+| style="background-color:lightblue" | [[File:214Heracross.png|x150px]]<br>{{color2|000|Heracross}}
+| style="background-color:lightblue" | [[File:Heracross anime.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME214.png|x150px]]
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation IV
+|-
+| style="background-color:lightpink" | [[File:HOME399 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Bidoof Hyper Fang.png|x150px]]
+| style="background-color:lightpink" | [[File:399Bidoof.png|x150px]]<br>{{color2|000|Bidoof}}
+| style="background-color:lightblue" | [[File:Bidoof DP023.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME399.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME415 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Sky Relay Combee.png|x150px]]
+| style="background-color:lightpink" | [[File:415Combee.png|x150px]]<br>{{color2|000|Combee}}
+| style="background-color:lightblue" | [[File:Male Combee anime.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME415.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME443 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Alain Gible.png|x150px]]
+| style="background-color:lightpink" | [[File:443Gible.png|x150px]]<br>{{color2|000|Gible}}
+| style="background-color:lightblue" | [[File:Ash Gible.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME443.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME445 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Cynthia Garchomp.png|x150px]]
+| style="background-color:lightpink" | [[File:445Garchomp.png|x150px]]<br>{{color2|000|Garchomp}}
+| style="background-color:lightblue" | [[File:Garchomp anime.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME445.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME449 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Wild Area Hippopotas.png|x150px]]
+| style="background-color:lightblue" | [[File:449Hippopotas.png|x150px]]<br>{{color2|000|Hippopotas}}
+| style="background-color:lightblue" | [[File:Hoopa Bonnie Hippopotas.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME449.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME459 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Candice Snover.png|x150px]]
+| style="background-color:lightblue" | [[File:459Snover.png|x150px]]<br>{{color2|000|Snover}}
+| style="background-color:lightblue" | [[File:Snover anime.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME459.png|x150px]]
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation V
+|-
+| style="background-color:lightpink" | [[File:HOME0521 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Ash Unfezant.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:521Unfezant.png|x150px]]<br>{{color2|000|Unfezant}}
+| style="background-color:lightblue" | [[File:Skyla Unfezant.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0521.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME0592 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Jessie Frillish.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:592Frillish.png|x150px]]<br>{{color2|000|Frillish}}
+| style="background-color:lightblue" | [[File:Trip Frillish.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0592.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME0593 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Female Jellicent anime.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:593Jellicent.png|x150px]]<br>{{color2|000|Jellicent}}
+| style="background-color:lightblue" | [[File:Male Jellicent anime.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0593.png|x150px]]
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation VI
+|-
+| style="background-color:lightpink" | [[File:HOME0668 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Alvin Pyroar.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:668Pyroar.png|x150px]]<br>{{color2|000|Pyroar}}
+| style="background-color:lightblue" | [[File:Lysandre Pyroar.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0668.png|x150px]]
+|-
+| style="background-color:lightpink" | [[File:HOME0678 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Heath Meowstic.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:678Meowstic.png|x150px]]<br>{{color2|000|Meowstic}}
+| style="background-color:lightblue" | [[File:Bluto Meowstic.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0678.png|x150px]]
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation VIII
+|-
+| style="background-color:lightpink" | [[File:HOME0876 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Nurse Joy Indeedee.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:876Indeedee.png|x150px]]<br>{{color2|000|Indeedee}}
+| style="background-color:lightblue" | [[File:Nurse Joy Indeedee.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0876.png|x150px]]
+|-
+! style="background-color:#{{Pokemon color light}}" colspan=5 | Generation IX
+|-
+| style="background-color:lightpink" | [[File:HOME0916 f.png|x150px]]
+| style="background-color:lightpink" | [[File:Yuno Twirly.png|x150px]]
+| style="background-color:#{{Pokemon color light}}" | [[File:916Oinkologne.png|x150px]]<br>{{color2|000|Oinkologne}}
+| style="background-color:lightblue" | [[File:Renta Prince.png|x150px]]
+| style="background-color:lightblue" | [[File:HOME0916.png|x150px]]
+|}
+
+==Trivia==
+* {{p|Nidoran♀}} and {{p|Nidoran♂}} are gendered counterparts in a similar vein to gender differences, but they are considered two separate species. They were introduced in [[Generation I]], prior to the introduction of [[gender]] as a mechanic in [[Generation II]] and of gender differences in [[Generation IV]]. Notably, {{pkmn|Egg}}s produced by Nidoran♀ or Nidoran♂ can hatch into either Pokémon. A similar male-female gendered counterpart pair is {{p|Volbeat}} and {{p|Illumise}}, who also can produce Eggs containing each other.
+** The male-female pairs {{p|Tauros}} and {{p|Miltank}}, as well as {{p|Latios}} and {{p|Latias}}, can also be considered gendered counterparts, though they cannot produce Eggs containing each other.
+* Some Pokémon with gender differences have unique distinctions:
+** {{p|Garchomp}} is the only [[Powerhouse Pokémon]] to have a gender difference.
+** {{rf|Hisuian}} {{p|Sneasel}} is the only [[regional form]] of a Pokémon to have a gender difference.
+** The {{p|Torchic}} evolutionary line is the only [[first partner Pokémon]] line where all of its members have gender differences.
+** {{p|Politoed}} is the only Pokémon with gender differences from a [[List of Pokémon with branched Evolutions|branched Evolution line]] that evolves from a Pokémon without gender differences.
+* {{t|Fairy}} is the only [[type]] that lacks a {{OBP|Pokémon|species}} with gender differences.
+* [[Generation IV]] introduced the most Pokémon with gender differences, with a total of 31.
+** It was also the first [[generation]] to introduce [[:Category:Pokémon that evolve based on gender|gender-based Evolution]], and the first to introduce new gender differences to Pokémon established in previous generations.
+* [[Generation IX]] introduced the fewest Pokémon with gender differences of generations that introduced Pokémon with gender differences, introducing only one.
+[[File:Krookodile HZ037.png|thumb|250px|The Krookodile from ''[[HZ037|Fuecoco…Becomes a Crook?!]]'']]
+* [[Generation VII]] is the only generation that did not introduce any new Pokémon that have gender differences. However, it did introduce a new gender difference for {{p|Eevee}} that was initially exclusive to the player's {{OBP|partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner}} Eevee.
+* No [[Mega Evolution]]s or [[Gigantamax]] forms have gender differences, even if other forms of the same species do.
+* Despite having prominent gender differences, {{p|Hippopotas}} and {{p|Hippowdon}} only have artwork and a menu sprite for the male of the species.
+** No female Hippowdon have ever appeared in the {{pkmn|animated series}}.
+* Despite {{p|Spinda}} not having any gender differences, the [[Rotom Pokédex]] displays separate models for male and female Spinda, using whichever spot pattern the player caught first for each gender.
+* Some Pokémon with gender differences evolve into Pokémon that do not have gender differences, namely {{p|Pikachu}} evolving into {{rf|Alolan}} {{p|Raichu}}, {{p|Golbat}} evolving into {{p|Crobat}}, {{p|Gloom}} evolving into {{p|Bellossom}}, {{p|Scyther}} evolving into {{p|Kleavor}}, {{p|Eevee}} evolving into the [[Eeveelution]]s, {{p|Murkrow}} evolving into {{p|Honchkrow}}, {{p|Girafarig}} evolving into {{p|Farigiraf}}, {{p|Gligar}} evolving into {{p|Gliscor}}, {{rf|Hisuian}} {{p|Sneasel}} evolving into {{p|Sneasler}}, and {{p|Ursaring}} evolving into {{p|Ursaluna}}.
+* Although {{p|Krookodile}} has no gender differences in the games, in ''[[HZ037|Fuecoco…Becomes a Crook?!]]'', a Krookodile who plays the role of "mother" in a litter of {{p|Sandile}} and {{p|Krokorok}} has pink eyelashes.
+
+==Related articles==
+* [[Gender]]
+
+{{forms}}
+
+[[Category:Variant Pokémon]]
+
+[[de:Geschlechtsunterschiede]]
+[[es:Lista de Pokémon con diferencias de sexo]]
+[[fr:Liste des Pokémon ayant des différences selon leur sexe]]
+[[it:Elenco dei Pokémon con differenze tra i sessi]]
+[[ja:性別#性別で姿がわずかに異なるポケモン]]
+[[zh:拥有性别差异的宝可梦列表]]

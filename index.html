@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Living Dex</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Living Dex</h1>
+      <div class="progress" title="Caught / total for the current settings">
+        <div class="progress-bar"><div id="progress-fill"></div></div>
+        <span id="progress-text"></span>
+        <span id="save-status" class="save-status"></span>
+      </div>
+    </div>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search name or #…" autocomplete="off">
+      <select id="gen-filter" aria-label="Generation">
+        <option value="">All generations</option>
+      </select>
+      <select id="status-filter" aria-label="Status">
+        <option value="">All</option>
+        <option value="missing">Missing</option>
+        <option value="caught">Caught</option>
+      </select>
+      <details id="game-menu" class="game-menu">
+        <summary id="game-summary">Any game</summary>
+        <div class="game-panel">
+          <div class="game-panel-head">
+            <span>Show Pokémon you can catch or evolve in any of these games (not trade/transfer-only)</span>
+            <button id="game-clear" type="button">Clear</button>
+          </div>
+          <div id="game-list" class="game-list"></div>
+        </div>
+      </details>
+      <div class="toggles" role="group" aria-label="Form types">
+        <label><input type="checkbox" data-cat="base" checked> Base forms</label>
+        <label><input type="checkbox" data-cat="regional" checked> Regional</label>
+        <label><input type="checkbox" data-cat="variant" checked> Variant forms</label>
+        <label><input type="checkbox" data-cat="gender" checked> Gender differences</label>
+        <label><input type="checkbox" data-cat="changeable"> Changeable forms</label>
+      </div>
+      <label class="zoom" title="Card size">🔍<input id="zoom" type="range" min="56" max="200" step="4" value="96" aria-label="Card size"></label>
+      <div class="view-switch" role="group" aria-label="View">
+        <button data-view="boxes" class="active">Boxes</button>
+        <button data-view="grid">Grid</button>
+        <button data-view="list">List</button>
+      </div>
+      <details class="menu">
+        <summary>⋯</summary>
+        <div class="menu-body">
+          <button id="export-btn">Export progress</button>
+          <label class="file-btn">Import progress<input id="import-input" type="file" accept="application/json" hidden></label>
+          <button id="reset-btn" class="danger">Reset all</button>
+        </div>
+      </details>
+    </div>
+  </header>
+
+  <main id="dex"></main>
+
+  <dialog id="detail">
+    <form method="dialog" class="detail-close"><button aria-label="Close">✕</button></form>
+    <div id="detail-body"></div>
+  </dialog>
+
+  <footer>
+    Availability data from <a href="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_availability" target="_blank" rel="noopener">Bulbapedia</a>
+    (CC BY-NC-SA). Sprites from <a href="https://github.com/PokeAPI/sprites" target="_blank" rel="noopener">PokeAPI</a>.
+    Forms marked “*” use the species’ availability.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
