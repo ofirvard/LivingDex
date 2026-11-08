@@ -36,7 +36,11 @@ When you start the app this way, every click is saved to **`progress.json`** in 
   - Changeable: Rotom, Arceus types, Therian forms, etc.
 
   Box numbering depends on which form types you track.
-- Choose a game to see only the Pokémon you can get there.
+- **Catch** opens a game picker. Tick games, or whole generations, then choose:
+  - **Can catch**: Pokémon you can catch in at least one of those games
+  - **Can't catch**: Pokémon you can't catch in any of them
+
+  Catching means meeting it in the wild (including DLC, Max Raid Dens and Dynamax Adventures), evolving it, or breeding it. Gifts, starters, fossils and NPC trades don't count, and neither do trade evolutions, in-game events, Friend Safari, dual-slot, or trades and transfers. Combine it with the Missing filter to see what you still need to bring in.
 
 ## Data
 

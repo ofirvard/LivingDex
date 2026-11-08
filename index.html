@@ -27,16 +27,7 @@
         <option value="missing">Missing</option>
         <option value="caught">Caught</option>
       </select>
-      <details id="game-menu" class="game-menu">
-        <summary id="game-summary">Any game</summary>
-        <div class="game-panel">
-          <div class="game-panel-head">
-            <span>Show Pokémon you can catch or evolve in any of these games (not trade/transfer-only)</span>
-            <button id="game-clear" type="button">Clear</button>
-          </div>
-          <div id="game-list" class="game-list"></div>
-        </div>
-      </details>
+      <button id="catch-btn" type="button" class="catch-btn">Catch</button>
       <div class="toggles" role="group" aria-label="Form types">
         <label><input type="checkbox" data-cat="base" checked> Base forms</label>
         <label><input type="checkbox" data-cat="regional" checked> Regional</label>
@@ -66,6 +57,21 @@
   <dialog id="detail">
     <form method="dialog" class="detail-close"><button aria-label="Close">✕</button></form>
     <div id="detail-body"></div>
+  </dialog>
+
+  <dialog id="catch-dialog" class="catch-dialog">
+    <form method="dialog" class="detail-close"><button aria-label="Close">✕</button></form>
+    <h3>Catch</h3>
+    <div class="catch-mode" role="radiogroup" aria-label="Show Pokémon you">
+      <label><input type="radio" name="catch-mode" value="can" checked> Can catch</label>
+      <label><input type="radio" name="catch-mode" value="cant"> Can't catch</label>
+    </div>
+    <div class="game-panel-head">
+      <span id="catch-hint"></span>
+      <button id="game-clear" type="button">Clear</button>
+    </div>
+    <div id="game-list" class="game-list"></div>
+    <form method="dialog" class="catch-done"><button>Done</button></form>
   </dialog>
 
   <footer>

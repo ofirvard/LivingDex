@@ -29,10 +29,10 @@
     D: ["Max Raid Den (Sw/Sh) — or, as a suffix, only in paid DLC", "native"],
     T: ["Trade or transfer from another game only", "external"],
   };
-  // "Can I get it in this game" for the game filter: catch, receive, evolve or breed in that game
-  // (including DLC, trade evolutions, Friend Safari, dual-slot and in-game event items), but not
-  // trading/transferring it in, real-life events, or anything that needs another game (CC/TE).
-  const IN_GAME_START = new Set(["C", "S", "R", "E", "B", "D", "DA", "CD", "ET", "DS", "FS", "EV"]);
+  // "Can I catch it in this game" for the Catch filter: meet it in the wild (including DLC, raids and
+  // Dynamax Adventures), evolve it, or breed it. Gifts and NPC trades (R), trade evolutions (ET),
+  // event items (EV), Friend Safari, dual-slot, trades/transfers and anything needing another game don't count.
+  const IN_GAME_START = new Set(["C", "S", "E", "B", "D", "DA", "CD"]);
   const codeCache = new Map();
   function parseCode(code) {
     if (codeCache.has(code)) return codeCache.get(code);
@@ -59,7 +59,7 @@
   const caught = new Set(load(STORE_KEY, []));
   const savedPrefs = load(PREFS_KEY, {});
   const prefs = Object.assign(
-    { view: "boxes", zoom: 96, gen: "", status: "", games: [] },
+    { view: "boxes", zoom: 96, gen: "", status: "", games: [], catchMode: "can" },
     savedPrefs,
     { cats: { base: true, regional: true, variant: true, gender: true, changeable: false, ...savedPrefs.cats } },
   );
@@ -104,10 +104,11 @@
   const $ = s => document.querySelector(s);
   const dexEl = $("#dex");
   const search = $("#search"), genSel = $("#gen-filter"), statusSel = $("#status-filter");
-  const gameMenu = $("#game-menu"), gameList = $("#game-list"), gameSummary = $("#game-summary");
+  const catchBtn = $("#catch-btn"), catchDialog = $("#catch-dialog"), gameList = $("#game-list");
 
   GEN_RANGES.forEach((_, i) => genSel.add(new Option(`Generation ${ROMAN[i]}`, i + 1)));
   prefs.games = (prefs.games || []).filter(c => gameByCode[c]);
+  if (prefs.catchMode !== "cant") prefs.catchMode = "can";
   gameList.innerHTML = ROMAN.map((r, i) => `
     <fieldset>
       <legend><label><input type="checkbox" data-game-gen="${i + 1}"> Generation ${r}</label></legend>
@@ -123,10 +124,14 @@
       cb.checked = n === inGen.length;
       cb.indeterminate = n > 0 && n < inGen.length;
     });
-    gameSummary.textContent = !chosen.size ? "Any game"
-      : chosen.size <= 2 ? `Get in: ${prefs.games.map(c => gameByCode[c].name).join(", ")}`
-      : `Get in: ${chosen.size} games`;
-    gameMenu.classList.toggle("active", chosen.size > 0);
+    const cant = prefs.catchMode === "cant";
+    catchDialog.querySelectorAll("[name=catch-mode]").forEach(r => { r.checked = r.value === prefs.catchMode; });
+    const which = chosen.size <= 2 ? prefs.games.map(c => gameByCode[c].name).join(", ") : `${chosen.size} games`;
+    catchBtn.textContent = !chosen.size ? "Catch" : `${cant ? "Can't catch" : "Can catch"}: ${which}`;
+    catchBtn.classList.toggle("active", chosen.size > 0);
+    $("#catch-hint").textContent = cant
+      ? "Show Pokémon you can't catch in any of these games. Catching means meeting it in the wild (DLC, raids included), evolving or breeding it — not gifts, NPC trades, trade evolutions, events, Friend Safari or dual-slot."
+      : "Show Pokémon you can catch in at least one of these games: meet it in the wild (DLC, raids included), evolve or breed it — not gifts, NPC trades, trade evolutions, events, Friend Safari or dual-slot.";
   }
 
   genSel.value = prefs.gen; statusSel.value = prefs.status;
@@ -235,7 +240,10 @@
     if (prefs.gen && genOf(e.num) !== +prefs.gen) return false;
     if (prefs.status === "caught" && !isCaught(e)) return false;
     if (prefs.status === "missing" && isCaught(e)) return false;
-    if (prefs.games.length && !prefs.games.some(g => e.avail[g] && parseCode(e.avail[g]).inGame)) return false;
+    if (prefs.games.length) {
+      const can = prefs.games.some(g => e.avail[g] && parseCode(e.avail[g]).inGame);
+      if (can !== (prefs.catchMode === "can")) return false;
+    }
     return true;
   }
 
@@ -447,8 +455,12 @@
     prefs.games = games.map(g => g.code).filter(c => chosen.has(c)); // keep release order
     syncGameMenu(); persistPrefs(); render();
   });
+  catchDialog.querySelectorAll("[name=catch-mode]").forEach(r => r.addEventListener("change", () => {
+    prefs.catchMode = r.value; syncGameMenu(); persistPrefs(); render();
+  }));
   $("#game-clear").addEventListener("click", () => { prefs.games = []; syncGameMenu(); persistPrefs(); render(); });
-  document.addEventListener("click", ev => { if (!gameMenu.contains(ev.target)) gameMenu.open = false; });
+  catchBtn.addEventListener("click", () => catchDialog.showModal());
+  catchDialog.addEventListener("click", ev => { if (ev.target === catchDialog) catchDialog.close(); });
   document.querySelectorAll("[data-cat]").forEach(cb => cb.addEventListener("change", () => {
     prefs.cats[cb.dataset.cat] = cb.checked; persistPrefs(); render();
   }));
